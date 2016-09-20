@@ -1,0 +1,57 @@
+.navbar-default {
+	background-color: blue;
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color: white;
+}
+
+.nav.navbar-nav li a {
+	color: white;
+}
+
+.nav.navbar-default a {
+	color: white;
+}
+
+body {
+	background-image: url("horz.png");
+	background-size: cover;
+}
+
+h1 {
+	color: #ffff00;
+	text-align: center;
+}
+
+.hiking {
+	width: 100%;
+}
+
+.biking {
+	width: 100%;
+}
+
+.hunting {
+	width: 100%;
+}
+
+.skiing {
+	width: 100%;
+}
+
+.jumbotron {
+	background-color: green;
+}
+
+ .h3head {
+ 	color: blue;
+}
+
+footer .jumbotron {
+ 	background-color: #00bf00;
+ }
+
+ .lakepic{
+ 	width: 100%;
+ }
